@@ -112,10 +112,6 @@
     <a href="#">
         <img alt="Vsual Studio"
              src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow"></a>
-   
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
 </p>
 
 ### 💻 My favorite operating systems
