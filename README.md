@@ -83,9 +83,6 @@
         <img alt="C"
              src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
     <a href="#">
-        <img alt="Python"
-             src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
-    <a href="#">
         <img alt="SQL"
              src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
 </p>
@@ -123,10 +120,8 @@
         <img alt="Azure"
              src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
 </p>
-
 ### ☁ Cloud hosting
-<p>
-    
+<p>   
     <a href="#">
         <img alt="Azure"
              src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
@@ -135,10 +130,7 @@
              src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
 </p>
-
 ### 💻 Software and tools
 <p>
     <a href="#">
@@ -151,10 +143,7 @@
     <a href="#">
         <img alt="Vsual Studio"
              src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow"></a>
-    <a href="#">
-        <img alt="Postman"
-             src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-    <a href="#"><img alt="" src=""></a>
+   
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
@@ -186,7 +175,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/muhammad-abdulloh/github-readme-streak-stats -->
 <p align="center">
   <a href="#">
-    <img title="🔥 Streak stats" alt="MuhammadAbdulloh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-abdulloh&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Streak stats" alt="Abdulaziz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulaziz-Avezov&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
@@ -209,6 +198,6 @@
     
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/muhammad-abdulloh/count.svg" />
+  <img src="https://profile-counter.glitch.me/Abdulaziz-Avezov/count.svg" />
 </p>
 
