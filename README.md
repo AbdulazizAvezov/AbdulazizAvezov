@@ -8,7 +8,7 @@
 </h3>
 <!--ANIMATED WELCOME TEXT -->
 <p align="center">
-    <a href="https://github.com/AbdulazizAvezov/readme-typing-svg">
+    <a href="https://github.com/Abdulaziz Avezov/readme-typing-svg">
         <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Engineer%20Developer;More%20than%20a%203+%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=420&height=45"></a>
 </p>
@@ -28,12 +28,9 @@
     <a href="https://github.com/">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/muhammadabdulloh-komilov/">
+    <a href="https://www.linkedin.com/in/Abdulaziz Avezov/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/17122298/clever-coder">
-        <img alt="Stackowerflow"
-             src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <!--      <a href="https://www.hackerrank.com/clevercoderr">
         <img alt="Hackerrank"
              src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
@@ -55,7 +52,7 @@
     <a align="center" href="https://github-readme-stats.vercel.app/api?username=Abdulaziz-Avezov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="Abdulaziz Avezov's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=Abdulaziz Avezov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz Avezov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="muhammad-abdulloh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz Avezov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <img alt="Abdulaziz Avezov's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz Avezov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
 
 <!-- <p>
