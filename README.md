@@ -136,37 +136,6 @@
   ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
  
 </div>
-### Snake game
 
 
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/muhammad-abdulloh/github-readme-streak-stats -->
-<p align="center">
-  <a href="#">
-    <img title="🔥 Streak stats" alt="Abdulaziz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulaziz-Avezov&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-## 💻 Last month's activity
-<!-- https://github.com/muhammad-abdulloh/github-readme-activity-graph -->
-<a href=""><img alt="Abdulaziz-Avezov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abdulaziz-Avezov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<!--   this is comment   -->
-    
-    
-<!--     
-    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhammad-abdulloh)](https://github.com/muhammad-abdulloh/github-readme-activity-graph)
-
-    (https://github-readme-activity-graph.cyclic.app/graph?username=muhammad-abdulloh&theme=dracula)](https://github.com/muhammad-abdulloh/github-readme-activity-graph)
-    
-    <a href=""><img alt="muhammad-abdulloh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=muhammad-abdulloh&theme=dracula" /></a> -->
-    
-    
-    
-    
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Abdulaziz-Avezov/count.svg" />
-</p>
 
