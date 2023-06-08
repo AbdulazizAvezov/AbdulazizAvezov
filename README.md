@@ -46,27 +46,6 @@
     <a href="https://www.facebook.com/profile.php?id=100068970307814"> -->
 </p>
 
-
-## 📊 Github stats
-<p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=Abdulaziz-Avezov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="Abdulaziz Avezov's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=Abdulaziz Avezov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz Avezov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="Abdulaziz Avezov's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz Avezov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-</p>
-
-<!-- <p>
-  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammad-abdulloh&theme=monokai&column=8&no-frame=true&no-bg=true">
-  </a>
-</p> -->
-<a>
-    <a><h2>Trophies</h2></a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Abdulaziz Avezov&row=4&theme=onedark&no-frame=true"/>
-    </a>    
-</a>
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming Languages
