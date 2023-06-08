@@ -52,7 +52,7 @@
 
 ## 📊 Github stats
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=muhammad-abdulloh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="muhammad-abdulloh's Github Stats"
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=Abdulaziz-Avezov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="Abdulaziz-Avezov's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=Abdulaziz-Avezov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz-Avezov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
     <img alt="muhammad-abdulloh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz-Avezov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
@@ -102,10 +102,6 @@
     <a href="#">
         <img alt="Entity%20Fraemwork%20Core"
              src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
-   
-    <a href="#">
-        <img alt="MVC"
-             src="https://img.shields.io/badge/MVC-43B02A?style=for-the-badge&logo=MVC&logoColor=white"/></a>
 </p>
 
 ### 🗄️ Databases
@@ -138,7 +134,6 @@
     <a href="#">
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-   
     <a href="#">
         <img alt="Vsual Studio"
              src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow"></a>
