@@ -91,7 +91,7 @@
              src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
       <a href="#">
         <img alt=" MongoDB"
-             src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
+             src="https://mma.prnewswire.com/media/384058/MongoDB_Logo.jpg?p=facebook"/></a>
 </p>
 ### ☁ Cloud hosting
 <p>   
